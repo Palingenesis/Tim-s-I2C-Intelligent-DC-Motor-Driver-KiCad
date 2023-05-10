@@ -6,4 +6,4 @@ It can recives signals from Quadratic Encoder to determin direction and position
 Also with a Quadratic Encoder attached you can set soft limits.<br>
 There are pinouts to add hard stops<br>
 There is a pinout to add a Station to set a known position<br>
-![Image](https://github.com/Palingenesis/Tim-s-I2C-Intelligent-DC-Motor-Driver/blob/main/Images/Tims_I2C_AI_DC_Motor_Driver%203D.png)<br>
+![Image](Images/Tims_I2C_AI_DC_Motor_Driver 2P 2N 3D_Front.png)<br>
