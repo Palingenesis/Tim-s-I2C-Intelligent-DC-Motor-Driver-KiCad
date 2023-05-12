@@ -1,0 +1,14 @@
+### Footprint positions - created on Fri May 12 13:23:09 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                 PosX       PosY       Rot  Side
+C3        100nF        C_0805_2012Metric                     7.1000    27.3600   90.0000  bottom
+D3        Blue         LED_0805_2012Metric                  11.6000    27.4600  -90.0000  bottom
+J1        I2C_3.3v     PinSocket_1x04_P2.54mm_Horizontal    10.6500     6.5600    0.0000  bottom
+J2        I2C_3.3v     PinHeader_1x04_P2.54mm_Horizontal    29.7000     6.5600    0.0000  bottom
+J11       3.3_OUT      PinHeader_1x02_P2.54mm_Vertical      10.6500     4.0200   90.0000  bottom
+J12       VIN          PinHeader_1x02_P2.54mm_Vertical       3.0300     4.0200  -90.0000  bottom
+R100      1K           R_0805_2012Metric                     9.3000    28.5600  -90.0000  bottom
+U2        AMS1117-3.3  SOT-223-3_TabPin2                     9.3800    21.1400  -90.0000  bottom
+## End

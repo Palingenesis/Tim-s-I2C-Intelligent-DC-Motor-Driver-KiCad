@@ -1,0 +1,45 @@
+### Footprint positions - created on Fri May 12 13:23:09 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                               PosX       PosY       Rot  Side
+C1        1uF          C_0805_2012Metric                  19.2000     3.5600  180.0000  top
+C2        100nF        C_0805_2012Metric                  15.6000     3.5600    0.0000  top
+D1        Blue         LED_0805_2012Metric                23.8000     8.5600  -90.0000  top
+D2        Green        LED_0805_2012Metric                23.8000    13.2600  -90.0000  top
+D4        Blue         LED_0805_2012Metric                15.6000     1.5600  180.0000  top
+D11       LL4148       D_MiniMELF                         19.7000    33.7600   90.0000  top
+D31       LL4148       D_MiniMELF                         14.3000    33.7600   90.0000  top
+J3        IN_STATION   PinHeader_1x02_P2.54mm_Vertical    29.7000    16.7200  -90.0000  top
+J4        MIN_Switch   PinHeader_1x02_P2.54mm_Vertical    29.7000    19.2600  -90.0000  top
+J5        MAX_Switch   PinHeader_1x02_P2.54mm_Vertical    29.7000    21.8000  -90.0000  top
+J7        LIN          PinHeader_1x02_P2.54mm_Vertical    15.7300    23.0700   90.0000  top
+J8        PWM          PinHeader_1x02_P2.54mm_Vertical    15.7300    25.6100   90.0000  top
+J9        AUX          PinHeader_1x01_P2.54mm_Vertical    17.0000    14.1800    0.0000  top
+J10       MOTOR_POWER  PinHeader_1x02_P2.54mm_Vertical    17.0000    34.5000    0.0000  top
+J13       QUAD         PinHeader_1x02_P2.54mm_Vertical    15.7300    20.5300   90.0000  top
+J14       VCC          PinHeader_1x02_P2.54mm_Vertical    15.7300    17.9900   90.0000  top
+J15       MOTOR        PinHeader_1x02_P2.54mm_Vertical    15.7300    28.1500   90.0000  top
+M10       AO3401A      SOT-23                             23.0000    31.0000  -90.0000  top
+M20       AO3400A      SOT-23                             22.8000    26.5960  180.0000  top
+M30       AO3401A      SOT-23                             10.6000    30.9500   90.0000  top
+M40       AO3400A      SOT-23                              8.4000    35.5960   90.0000  top
+Q10       S8050        SOT-23                              7.0000    25.9335  -90.0000  top
+Q30       S8050        SOT-23                             26.6000    32.5960   90.0000  top
+R1        10k          R_0805_2012Metric                   6.8000    12.7600  -90.0000  top
+R2        10k          R_0805_2012Metric                  11.0000    18.9600  -90.0000  top
+R3        100R         R_0805_2012Metric                  26.6000     6.5600  180.0000  top
+R4        100R         R_0805_2012Metric                  26.6000     9.1000  180.0000  top
+R5        150R         R_0805_2012Metric                  26.6000    11.6400    0.0000  top
+R6        68R          R_0805_2012Metric                  26.6000    14.1600    0.0000  top
+R7        200R         R_0805_2012Metric                  19.2000     1.5600    0.0000  top
+R11       10k          R_0805_2012Metric                  23.0000    34.2850    0.0000  top
+R12       10k          R_0805_2012Metric                  24.8000    36.5600    0.0000  top
+R13       10k          R_0805_2012Metric                   7.0000    28.9600  180.0000  top
+R21       10k          R_0805_2012Metric                  26.6000    26.5960   90.0000  top
+R31       10k          R_0805_2012Metric                  10.6000    27.9600  180.0000  top
+R32       10k          R_0805_2012Metric                  10.6000    25.7600    0.0000  top
+R33       10k          R_0805_2012Metric                  26.6000    29.3960    0.0000  top
+R41       10k          R_0805_2012Metric                   7.0000    31.7960  -90.0000  top
+U1        STM8S103F3P  TSSOP-20_4.4x6.5mm_P0.65mm         16.6775     8.7000    0.0000  top
+## End
